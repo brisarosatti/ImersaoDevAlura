@@ -1,4 +1,3 @@
 # ImersãoDevAlura
 
-Projeto final da Imersão Dev da Alura
-https://brisarosatti.github.io/ImersaoDevAlura/
+Projeto final da Imersão Dev Alura que contemplou 5 mini projetos usando linguagens HTML, CSS e Javascript.
